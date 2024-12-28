@@ -1,6 +1,6 @@
 # Random Password Generator
 
-Developed on June 2024, A random password generator built with React. Users can customize password length and include/exclude specific characters and numbers. This project helped me a lot to understand the use of different react hooks and their appropiate use cases.
+Developed on June 2024, A random password generator built with React. Users can customize password length and include/exclude specific characters and numbers. This project helped me a lot in understanding the use of different react hooks and their appropiate use cases.
 
 ## Features
 
