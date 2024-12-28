@@ -9,7 +9,7 @@ Developed on June 2024, A random password generator built with React. Users can 
 3. Select Special Characters: Toggle the inclusion of special characters for enhanced security.
 4. Copy to Clipboard: Easily copy the generated password with a click.
 
-## Few Screenshots
+## Screenshots
 
 ![Screenshot 1](https://github.com/user-attachments/assets/646e7ec0-e26d-4db3-9528-db1394fefbed)
 
